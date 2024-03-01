@@ -2,3 +2,7 @@ Selam, ben Muhammet. Ios developer olmaya çalışıyorum. Bunun için satın al
 videolar seyrediyorum ve bootcamplere başvuruyorum. Burayı, ilerlememi ve yapacağım projeleri paylaşmak için kullanacağım.
 
 
+
+Kaynaklarım :  Kasım Adalan udemy kursu, Turkcell Gelecegi Yazanlar IOS Egitimi, Medium yazıları ve birkaç youtube kanalı.
+
+
